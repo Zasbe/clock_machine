@@ -1,3 +1,4 @@
 *.clangd
 *cache*
+!*clock_machine.elf
 build
